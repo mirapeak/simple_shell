@@ -68,7 +68,6 @@ return (ret);
 }
 
 /**
-
 *_puts - prints an input string
 *@str: the string to be printed
 *
@@ -101,7 +100,6 @@ i++;
 ​
 
 /**
-
 * _putchar - writes the character c to stdout
 * @c: The character to print
 *
